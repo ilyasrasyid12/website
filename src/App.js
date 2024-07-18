@@ -11,13 +11,10 @@ import { motion } from "framer-motion";
 
 const App = () => {
   return(
-    <>
       <Router>
-        <Header />
-        <AnimRoutes />
         <Home />
+        <AnimRoutes /> 
       </Router>
-    </>
   ); 
 };
 
