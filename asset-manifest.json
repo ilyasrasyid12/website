@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.a98f1ab5.css",
+    "main.js": "/website/static/js/main.81cdbaf9.js",
+    "static/media/10.jpg": "/website/static/media/10.8982860fc45ba6d17eb3.jpg",
+    "static/media/8.jpg": "/website/static/media/8.2c6fdbf63cf584120b17.jpg",
+    "static/media/3.jpg": "/website/static/media/3.bf3da7ec76c40b74aab9.jpg",
+    "static/media/1.jpg": "/website/static/media/1.c7e75cf1ca2239a29249.jpg",
+    "static/media/7.jpg": "/website/static/media/7.7445e664e8f5b0417eae.jpg",
+    "static/media/2.jpg": "/website/static/media/2.afd76b8b04cf41b2ed87.jpg",
+    "static/media/4.png": "/website/static/media/4.9492402c023818e99f8d.png",
+    "static/media/CV_Ilyas.pdf": "/website/static/media/CV_Ilyas.c2627ad9309151524d4a.pdf",
+    "static/media/6.jpg": "/website/static/media/6.a0f4bf91c442f92df90e.jpg",
+    "static/media/5.jpg": "/website/static/media/5.a6ff3a5c77cfdf14fede.jpg",
+    "static/media/9.jpg": "/website/static/media/9.92b26e81632406a2939b.jpg",
+    "static/media/4.jpg": "/website/static/media/4.ae640c87519a53705e61.jpg",
+    "static/media/3.png": "/website/static/media/3.5a67d7f451e4eb7daed2.png",
+    "static/media/2.png": "/website/static/media/2.62533239f2baa9d0252a.png",
+    "static/media/1.png": "/website/static/media/1.b3c5fbee26a13b1de250.png",
+    "static/media/logo.svg": "/website/static/media/logo.826cb5f922b3277a89a21308bace338f.svg",
+    "static/media/slick.svg": "/website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/website/index.html",
+    "main.a98f1ab5.css.map": "/website/static/css/main.a98f1ab5.css.map",
+    "main.81cdbaf9.js.map": "/website/static/js/main.81cdbaf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a98f1ab5.css",
+    "static/js/main.81cdbaf9.js"
+  ]
+}
