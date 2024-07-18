@@ -12,6 +12,7 @@ import { motion } from "framer-motion";
 const App = () => {
   return(
       <Router>
+        <Header />
         <Home />
         <AnimRoutes /> 
       </Router>
