@@ -59,11 +59,11 @@ const Contact = () => {
             <p className='mb-12'>Saya senang mendengar dari Anda! Silakan hubungi saya melalui formulir kontak di halaman ini untuk diskusi lebih lanjut tentang proyek, kerjasama, atau pertanyaan lainnya. Saya siap membantu mewujudkan ide dan kebutuhan Anda dalam teknologi dan pengembangan</p>
             <form className='flex flex-col gap-y-4' onSubmit={sendEmail}>
               <div className='flex gap-x-10'>
-                <input className='outline-none border-b border-b-primary h-[60px] bg-transparent font-secondary w-full pl-3 placeholder:text-[#757879]' type='text' name='user_name' placeholder='Your Name' required />
-                <input className='outline-none border-b border-b-primary h-[60px] bg-transparent font-secondary w-full pl-3 placeholder:text-[#757879]' type='email' name='user_email' placeholder='Your Email' required />
+                <input className='outline-none border-b border-b-primary h-[60px] bg-transparent font-secondary w-full pl-3 placeholder:text-[#757879]' type='text' name='user_name' placeholder='Nama Kamu' required />
+                <input className='outline-none border-b border-b-primary h-[60px] bg-transparent font-secondary w-full pl-3 placeholder:text-[#757879]' type='email' name='user_email' placeholder='Email Kamu' required />
               </div>
               {emailError && <p className='text-red-500'>{emailError}</p>}
-              <textarea className='outline-none border-b border-b-primary h-[150px] bg-transparent font-secondary w-full pl-3 placeholder:text-[#757879] resize-none' name='message' placeholder='Your Message' required />
+              <textarea className='outline-none border-b border-b-primary h-[150px] bg-transparent font-secondary w-full pl-3 placeholder:text-[#757879] resize-none' name='message' placeholder='Pesan Kamu' required />
               <button className='btn mx-auto mb-[30px] lg:mx-0 self-start' type='submit'>Send it</button>
             </form>
           </motion.div>

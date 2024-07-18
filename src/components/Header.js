@@ -15,7 +15,7 @@ const Header = () => {
         {/* Logo */}
         <Link to={"/"} className='max-w-[400px]'>
         {/* <img src={Logo}></img> */}
-        <h2 className='text-[40px] lg:text-[70px] font-primary font-bold capitalize leading-[120%] tracking-[-0.05em] mb-2'>ilyas rasyid</h2>
+        <h2 className='text-[30px] lg:text-[50px] font-primary font-bold capitalize leading-[120%] tracking-[-0.05em] mb-2'>ilyas rasyid</h2>
         </Link>
         {/* nav - initiality hidden - show on desktop mode */}
         <nav className='hidden lg:flex gap-x-12 font-semibold'>
